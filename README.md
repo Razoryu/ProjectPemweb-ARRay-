@@ -5,7 +5,7 @@ Web platform for reusing and exchanging second-hand items through a drop point s
 ## Anggota Kelompok
 - Akmal Anerol Husen
 - Muhammad Rama Naradya
-- Rangga Rasya Raditya
+- Rangga Rassya Raditya
 
 ## Fungsi
 Website ini berfungsi sebagai platform digital yang mempertemukan pemilik barang bekas layak pakai dengan orang yang membutuhkannya, dengan dua jalur utama: **tukar barang (barter)** sebagai prioritas, dan **ambil bebas dari drop point** sebagai fallback ketika tidak ada partner tukar yang cocok. Sebelum bisa mengambil barang (baik lewat tukar maupun bebas), pengguna wajib melewati gerbang edukasi berupa artikel dan kuis singkat sebagai bentuk pencegahan (prevention) timbulan sampah dari sisi kebiasaan pengguna.
