@@ -1,6 +1,6 @@
 # ProjectPemweb-ARRay-
 Web platform for reusing and exchanging second-hand items through a drop point system.
-# [Nama Website] — Platform Reuse Barang Bekas
+# [Nama Website]  Platform Reuse Barang Bekas
 
 ## Anggota Kelompok
 - Akmal Anerol Husen
