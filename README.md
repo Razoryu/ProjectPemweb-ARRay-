@@ -78,3 +78,8 @@ Alur halaman utama:
    ├─ Barang yang diposting & statusnya
    ├─ Barang yang ditukar/diklaim
    └─ Statistik kontribusi personal
+
+```
+
+SKEMA DATABASE
+
