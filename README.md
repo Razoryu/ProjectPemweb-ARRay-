@@ -86,5 +86,7 @@ Alur halaman utama:
 <img width="1500" height="950" alt="image" src="https://github.com/user-attachments/assets/095b5bf9-e275-4e46-a7b2-f828b52274ef" />
 
 **MOCKUP**
+
+
 <img width="830" height="592" alt="image" src="https://github.com/user-attachments/assets/1ec39eff-8e33-403b-bcc2-5ef446153604" />
 
